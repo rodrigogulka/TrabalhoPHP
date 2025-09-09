@@ -5,6 +5,7 @@ Professor: Flores
 Turma: ESOFT-2B
 Componentes:
  25178060-2 - Rodrigo Samuel Gulka
+ 25147198-2 - Lucas Pavelski Tanck
 Data: 8 de Setembro de 2025
 Descritivo: Escreva um programa que calcule a soma de dois números
 *******************************************************************************/
@@ -20,3 +21,4 @@ $soma = $num1 + $num2;
 // Exibe o resultado
 echo "A soma de $num1 + $num2 = $soma\n";
 ?>
+
