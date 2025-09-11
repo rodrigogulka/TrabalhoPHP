@@ -6,6 +6,7 @@ Turma: ESOFT-2B
 Componentes:
  25178060-2 - Rodrigo Samuel Gulka
  25147198-2 - Lucas Pavelski Tanck
+ 25363232-2 - Helamã Sampaio
 Data: 8 de Setembro de 2025
 Descritivo: Crie um programa que eleve 4 à potência de 3
 *******************************************************************************/
@@ -20,4 +21,5 @@ $potencia = pow($base, $expoente);
 
 // Exibe o resultado
 echo "$base elevado à potência de $expoente = $potencia\n";
+
 ?>
