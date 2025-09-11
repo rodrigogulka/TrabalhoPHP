@@ -6,6 +6,7 @@ Turma: ESOFT-2B
 Componentes:
  25178060-2 - Rodrigo Samuel Gulka
  25147198-2 - Lucas Pavelski Tanck
+ 25363232-2 - Helamã Sampaio
 Data: 8 de Setembro de 2025
 Descritivo: Crie um código que calcule a área de um círculo (πr²)
 *******************************************************************************/
@@ -20,4 +21,5 @@ $area = $pi * ($raio ** 2);
 
 // Exibe o resultado
 echo "A área do círculo com raio $raio é igual a $area\n";
+
 ?>
